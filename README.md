@@ -17,7 +17,7 @@ Please download the package from the [Github release page](https://github.com/pl
 ## Overview
 
 The Google Play Games plugin for Unity allows you to access the Google Play Games
-API through Unity's [social interface](http://docs.unity3d.com/Documentation/ScriptReference/Social.html).
+API through Unity's [social interface](http://docs.unity3d.com/Documentation/ScriptReference/Social.html)..
 The plugin provides support for the
 following features of the Google Play Games API:<br/>
 
